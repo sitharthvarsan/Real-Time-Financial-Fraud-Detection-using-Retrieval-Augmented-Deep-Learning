@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+imblearn
+sentence-transformers
+faiss-cpu
+torch
+ollama
+streamlit
+joblib

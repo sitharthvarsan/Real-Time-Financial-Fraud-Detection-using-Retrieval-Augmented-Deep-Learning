@@ -1,0 +1,9 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Project-specific files
+*.joblib
+*.pth
+audit_log.json
